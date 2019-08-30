@@ -1,2 +1,2 @@
-# addictsdiary.github.io
+# Addict's Diary
 Addict's Diary Homepage
